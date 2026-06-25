@@ -79,4 +79,4 @@
 ---
 
 ## GitHub Repository Link
-[]
+https://github.com/charlenemacattoh2005-hub/shopify-ecommerce-project
